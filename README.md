@@ -212,6 +212,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 ```
 ### Output:
+![img1](https://github.com/ManojTella/Fully-functional-To-Do-List-application-using-ES6-JavaScript/assets/94883876/3a539f29-3036-478f-923d-8fbc5ce69626)
+![img2](https://github.com/ManojTella/Fully-functional-To-Do-List-application-using-ES6-JavaScript/assets/94883876/e15b53c7-701d-4587-9e56-ae9c59c8343b)
 
 
 
